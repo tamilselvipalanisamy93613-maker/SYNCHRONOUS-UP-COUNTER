@@ -58,6 +58,7 @@ endmodule
 <img width="1272" height="399" alt="Screenshot 2025-12-14 183736" src="https://github.com/user-attachments/assets/6aa923d7-ee7a-4f46-bc5d-7186062876ea" />
 
 **TRUTH TABLE**
+
 <img width="624" height="649" alt="Screenshot 2025-12-14 183748" src="https://github.com/user-attachments/assets/915fd2f0-ac2a-4d07-af7f-f52d64f78371" />
 
 **RESULTS**
